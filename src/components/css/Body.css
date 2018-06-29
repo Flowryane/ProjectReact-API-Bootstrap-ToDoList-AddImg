@@ -1,0 +1,51 @@
+img{
+  border-radius: 25px;
+}
+.imgbody2{
+  display: flex;
+  justify-content: space-around;
+}
+.btnimage{
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.btnimage button{
+  background-color: #e84393;
+  color: #2c3e50;
+  border: 3px solid #8e44ad;
+  border-radius: 25px;
+}
+.todolist{
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  height: 200px;
+  background-color: white;
+  border-radius: 25px;
+  overflow: auto;
+}
+.todolisttg{
+  display: flex;
+  justify-content: center;
+}
+.btntodo{
+  display: flex;
+  justify-content: center;
+}
+.btntodo2{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+.btntodo2 button{
+  background-color: #e84393;
+  color: #2c3e50;
+  border: 3px solid #8e44ad;
+  border-radius: 25px;
+}
+.btntodo input{
+  width: 370px;
+  border-radius: 25px;
+}

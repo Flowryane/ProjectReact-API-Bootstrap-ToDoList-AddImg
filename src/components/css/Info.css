@@ -1,0 +1,23 @@
+body{
+  background: url(https://cdn.brazil-selection.com/wp-content/uploads/2016/03/plage-de-reve_fernando-de-noronha.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mdr{
+  margin-top:40px;
+  background-color: #2c3e50;
+  border: 3px solid #e67e22;
+  color: white;
+  border-radius: 25px;
+  height: 200px;
+  width: 350px;
+  padding: 20px 20px;
+}
+.footerlol2{
+  display: flex;
+  justify-content: center;
+}
+*{
+  font-family: 'Ubuntu Condensed', sans-serif;
+}

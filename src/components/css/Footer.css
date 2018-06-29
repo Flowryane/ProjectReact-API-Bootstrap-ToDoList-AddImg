@@ -1,0 +1,21 @@
+.met{
+  display: flex;
+  justify-content: center;
+}
+.met2{
+  display: flex;
+  justify-content: center;
+}
+.met2 input{
+  border-radius: 25px;
+}
+.met2 button{
+  border-radius: 25px;
+  background-color: #0984e3;
+  border: 5px solid #0984e3;
+}
+.met2 button:hover{
+  border-radius: 25px;
+  background-color: #74b9ff;
+  border: 5px solid #0984e3;
+}
